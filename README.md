@@ -207,6 +207,6 @@ This project is open source and available under the [MIT License](LICENSE).
 
 ---
 
-**Author:** [Your Name]  
+**Author:** Shaney Hoyohoy  
 **Created:** August 2025  
 **Last Updated:** August 13, 2025
